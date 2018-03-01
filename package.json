@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DK1085/npmTesting/issues"
   },
-  "homepage": "https://github.com/DK1085/npmTesting#readme"
+  "homepage": "https://github.com/DK1085/npmTesting#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
 }
