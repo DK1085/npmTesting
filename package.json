@@ -1,0 +1,19 @@
+{
+  "name": "testingnpm",
+  "version": "1.0.0",
+  "description": "Simple app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DK1085/npmTesting.git"
+  },
+  "author": "DKr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DK1085/npmTesting/issues"
+  },
+  "homepage": "https://github.com/DK1085/npmTesting#readme"
+}
